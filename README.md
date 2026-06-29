@@ -31,13 +31,45 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 ## 📁 Repository Structure
 
 ```text
-├── frontend/             # React.js web application
-│   ├── src/
-│   │   ├── components/   # Interactive Grid, Navbar, Timers
-│   │   └── context/      # Live state management via WebSockets
-├── mobile/               # React Native / Flutter mobile files
-├── backend/              # Node.js / Express.js server environment
-│   ├── controllers/      # Booking logic & user authentication
-│   ├── models/           # Mongoose schemas (User, Slot, Booking)
-│   └── routes/           # API endpoints for status updates
-└── README.md             # Project documentation
+Parking/
+├── android/                         # Native Android configuration files
+├── ios/                             # Native iOS configuration files
+├── web/                             # Flutter web configuration files (if needed)
+├── assets/                          # Static assets utilized across the app
+│   ├── icons/                       # App icons, car vectors, marker pins
+│   └── images/                      # Branding logos, onboarding illustrations
+├── lib/                             # Core Flutter application source code
+│   ├── main.dart                    # Application entry point (initializes services)
+│   ├── app.dart                     # Main MaterialApp configuration (routing, themes)
+│   ├── core/                        # Shared utilities, constants, and global code
+│   │   ├── constants/               # Global static values
+│   │   │   ├── color_constants.dart # Theme configurations (Green/Red indicators)
+│   │   │   └── api_endpoints.dart   # Backend REST & WebSocket URIs
+│   │   ├── network/                 # Low-level networking clients
+│   │   │   ├── api_client.dart      # HTTP/Dio client for REST requests
+│   │   │   └── websocket_client.dart# Low-latency Socket.io connection manager
+│   │   ├── utils/                   # Helper functions (date formatters, QR builders)
+│   │   └── widgets/                 # Reusable UI elements (custom buttons, load spinners)
+│   │
+│   └── features/                    # Feature-First Architecture Modules
+│       ├── auth/                    # --- Authentication Feature ---
+│       │   ├── data/                # Data layer (API calls, local token storage)
+│       │   ├── domain/              # Entities and business logic use cases
+│       │   └── presentation/        # UI layer (Login screen, Register screen)
+│       │
+│       ├── parking_map/             # --- Live Parking Grid Feature ---
+│       │   ├── data/                # Fetches initial layouts & listens to WebSockets
+│       │   ├── domain/              # Slot models and live status entities
+│       │   └── presentation/        # Grid View, Slot State Widgets (Red/Green)
+│       │
+│       ├── booking/                 # --- Slot Reservation Feature ---
+│       │   ├── data/                # Handles reservation HTTP requests & timers
+│       │   ├── domain/              # Active reservation state models
+│       │   └── presentation/        # Countdown Timer UI, Ticket Confirmation Screen
+│       │
+│       └── profile/                 # --- User Settings & History Feature ---
+│           ├── data/                # Fetches past history records
+│           └── presentation/        # History Log View, Profile Management UI
+│
+├── pubspec.yaml                     # Project dependencies & asset declarations
+└── README.md                        # Mobile sub-module documentation
