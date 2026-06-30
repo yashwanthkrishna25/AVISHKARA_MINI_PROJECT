@@ -28,6 +28,21 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 
 ---
 
+
+##  📱 App UI Preview
+
+
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="../parkease2/screenshot/1st.png" style="width:100%; object-fit: contain;" />
+  <img src="../parkease2/screenshot/2nd.png" style="width:100%; object-fit: contain;" />
+  <img src="../parkease2/screenshot/3rd.png" style="width:100%; object-fit: contain;" />
+  <img src="../parkease2/screenshot/4th.png" style="width:100%; object-fit: contain;" />
+  <img src="../parkease2/screenshot/5th.png" style="width:100%; object-fit: contain;" />
+  <img src="../parkease2/screenshot/8th.png" style="width:100%; object-fit: contain;" />
+</div>
+
+---
+
 ## 📁 Repository Structure
 
 ```text
