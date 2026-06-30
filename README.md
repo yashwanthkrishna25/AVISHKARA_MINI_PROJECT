@@ -28,6 +28,11 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 
 ---
 
+---
+App UI Preview
+🎯 Onboarding Screen
+<p align="center"> <img src="Screenshot 2026-06-30 205848.png" width="300"/> </p>
+
 ## 📁 Repository Structure
 
 ```text
