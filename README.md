@@ -32,13 +32,18 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 ##  📱 App UI Preview
 
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/1st.png" style="width:100%; object-fit: contain;" />
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/2nd.png" style="width:100%; object-fit: contain;" />
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/3rd.png" style="width:100%; object-fit: contain;" />
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/4th.png" style="width:100%; object-fit: contain;" />
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/4th.png" style="width:100%; object-fit: contain;" />
-  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/4th.png" style="width:100%; object-fit: contain;" />
+<div align="center">
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/1st.png?raw=true" alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/2nd.png?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/3rd.png?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+&nbsp;
+
+&nbsp;
+<div align="center">
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/4th.png?raw=true" alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/5th.png?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/main/screenshot/8th.png?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
 </div>
 
 ---
