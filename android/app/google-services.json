@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "219224923897",
+    "project_id": "parkease-booking-d840d",
+    "storage_bucket": "parkease-booking-d840d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219224923897:android:a0e09abe471a18e7514c28",
+        "android_client_info": {
+          "package_name": "com.example.parkease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZEzuUCd41xe5rcCKb1CHKBNtFPVWUCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219224923897-chp5ud9cdg5fq3ar2o38p0anop8fpi5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219224923897:android:8966c7cf0bbd763e514c28",
+        "android_client_info": {
+          "package_name": "com.example.parkease2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZEzuUCd41xe5rcCKb1CHKBNtFPVWUCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219224923897-chp5ud9cdg5fq3ar2o38p0anop8fpi5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219224923897:android:ba62be4b30d4cd78514c28",
+        "android_client_info": {
+          "package_name": "com.example.parkz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZEzuUCd41xe5rcCKb1CHKBNtFPVWUCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219224923897-2lm02ua0q747l7lrcmpc29pugchiejqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219224923897-chp5ud9cdg5fq3ar2o38p0anop8fpi5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
