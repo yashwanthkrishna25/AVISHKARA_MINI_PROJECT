@@ -33,7 +33,7 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 
 
 <div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="../AVISHKARA_MINI_PROJECT/screenshot/1st.jpg" style="width:100%; object-fit: contain;" />
+  <img src="https://github.com/yashwanthkrishna25/AVISHKARA_MINI_PROJECT/blob/AVISHKARA_MINI_PROJECT/screenshot/1st.jpg" style="width:100%; object-fit: contain;" />
   <img src="../parkease2/screenshot/2nd.png" style="width:100%; object-fit: contain;" />
   <img src="../parkease2/screenshot/3rd.png" style="width:100%; object-fit: contain;" />
   <img src="../parkease2/screenshot/4th.png" style="width:100%; object-fit: contain;" />
