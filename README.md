@@ -43,6 +43,28 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 
 ---
 
+<div align="center">
+<img src="../parkease2/screenshot/1st.png?raw=true" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/map.jpg?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/qr.jpg?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+&nbsp;
+
+&nbsp;
+<div align="center">
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/parking.jpg?raw=true" alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/slot.jpg?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/booking.jpg?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+&nbsp;
+
+&nbsp;
+<div align="center">
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/wallet.jpg?raw=true" alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/history.jpg?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/rating.jpg?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+
 
 
 ## 📁 Repository Structure
