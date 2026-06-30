@@ -138,7 +138,7 @@ class ParkEaseApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "ParkEase",
+      title: "Parking Slot Booking",
 
       theme: AppTheme.lightTheme,
 
