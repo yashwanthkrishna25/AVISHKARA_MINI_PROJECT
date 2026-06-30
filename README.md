@@ -44,7 +44,7 @@ An automated, cross-platform full-stack solution designed to streamline urban pa
 ---
 
 <div align="center">
-<img src="../parkease2/screenshot/1st.png?raw=true" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="../parkease2/screenshot/1st.jpg?raw=true" width="30%"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/map.jpg?raw=true" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ParkZ-CapstoneProject/parkz-mobile-app/blob/main/screenshot/qr.jpg?raw=true" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
 </div>
